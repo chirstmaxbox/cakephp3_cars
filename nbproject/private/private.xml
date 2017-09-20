@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/index.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Model/Table/ProductsTable.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Controller/TypesController.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/webroot/index.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Model/Entity/Product.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/config/paths.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Controller/ProductsController.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Controller/UsersController.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Model/Table/UsersTable.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/webroot/js/producthandler.js</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/webroot/css/mystyle.css</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Model/Entity/User.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Template/Pages/home.ctp</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/webroot/.htaccess</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/config/routes.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/webroot/js/loginhandler.js</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Template/Cars/detail.ctp</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/webroot/js/registerhandler.js</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/config/app.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Controller/CarsController.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Template/Cars/register.ctp</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Controller/AppController.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/config/bootstrap.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Template/Cars/main.ctp</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Template/Cars/product.ctp</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Controller/PagesController.php</file>
+            <file>file:/Users/anhtran/Downloads/phpcake/cakephpapp/src/Controller/CartsController.php</file>
+        </group>
+    </open-files>
+</project-private>
